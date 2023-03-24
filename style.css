@@ -1,0 +1,361 @@
+#second-nav{
+	background: #eee;
+	height: 157px;
+}
+
+#second-nav ul {
+	padding: 10px 0;
+}
+
+#second-nav ul li{
+	display: inline;
+	margin-right: -5px;
+	font-size: 16px;
+	font-family: Gotham, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #4F2E84;
+}
+
+#second-nav ul li a{
+	color:#532E8B;
+	text-decoration: underline;
+}
+
+#second-nav ul li a:hover{
+	text-decoration: underline;
+	color: #5D9AE9;
+}
+
+.contain-1170 {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.contain-1170 a{
+	width: 1170px;
+	color:#828282;
+	text-decoration: none;
+}
+
+.contain-1170 a:hover{
+	width: 1170px;
+	color: #5D9AE9;
+	margin: 10px auto;
+	text-decoration: underline;
+}
+
+#Taekwondo-logo{
+	float: left;
+	width: 27%;
+}
+
+form input{
+	width: 250px;
+	height: 25px;
+	float: right;
+	position: relative;
+	top: 45px;
+	left: -55px;
+}
+
+#main-nav nav{
+	color:#4F2E84;
+	margin-top: auto;
+	height: 45px;
+	background-color: #4F2E84;
+	text-align: center;
+	border: 2px solid black;
+	box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+}
+
+#main-nav ul li{
+	display: inline;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 1.5em;
+	padding: 20px;
+	position: relative;
+	top: 10px;
+}
+
+
+#main-nav nav ul li a{
+	color:#fff;
+	text-decoration: none;
+}
+
+#main-nav nav ul li a:hover{
+	color:#333;
+	background-color: #fff;
+	border-top: #fff;	
+	box-shadow: 0 -10px 10px 5px rgba(0,0,0,0.1);
+}
+
+#main-spotlight{
+	
+	background-image: url("images/backshot.jpg");
+	background-size: cover;
+	background-position: 0 90%;	
+	width:100%;
+	height: 550px;
+	clear: both;
+}
+
+
+
+.transparent-content {
+	background-color:#000000 ;
+	opacity: 0.7;
+	width: 500px;
+	height: 200px;
+	position: relative;
+	top:280px;
+	left: -100px;
+	box-sizing: border-box;
+}
+
+.transparent-content h1 a{
+	font-family: Gotham, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	position: relative;
+	top: 10px;
+	font-size: 2.5em;
+	font-weight: normal;
+	line-height: 1.5em;
+	color: #fff;
+	padding: 30px 50px;
+	text-decoration: none;
+} 
+
+#main-spotlight h1 a:hover{
+	text-decoration: underline;
+	color:#fff;
+}
+.transparent-content p a{
+	font-family: Gotham, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 1em;
+	font-weight: normal;
+	position: relative;
+	top: 20px;
+	line-height: 1.5em;
+	color: #fff;
+	
+	margin: 25px 50px;
+	text-decoration: none;
+}
+
+.transparent-content p a:hover{
+	text-decoration: underline;
+	color: #fff;
+}
+#covid-news {
+	background-color: #BDBDBD;
+	height: 100px;
+	
+}
+
+#covid-news p{
+	text-align: center;
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 20px 0;
+	color: #4F2E84;
+}
+
+#covid-news p a{
+	text-align: center;
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 20px 0;
+	color: #4F2E84;
+	text-decoration: none;
+}
+
+#covid-news p a:hover{
+	text-decoration: underline;
+	color: #5D9AE9;
+}
+
+.outlet  {
+	text-decoration: none;
+	
+}
+
+.outlet h1{
+	color:#4F2E84;
+	margin-top: 50px;
+	margin-bottom: 15px;
+	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: Bold;
+	font-size: 1.7em;
+}
+
+.img-contain{
+	margin: 0 20px 100px 0;
+	padding-bottom:100px;
+	width:265px;
+	height: 150px;	
+	text-align: center;
+	border: 1px;
+	float:left;
+	box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+	color: #4F2E84;
+	
+}
+
+.img-contain p{
+	font-size: 1em;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #4F2E84;
+	padding: 10px;
+	font-weight: 800;
+	text-decoration: underline;
+}
+.img-contain p a{
+	color: #4F2E84;
+	
+	/*padding-right: 30px;*/
+}
+
+.img-contain p a:hover{
+	color: #5D9AE9;	
+}
+
+.event-browse{
+	float: left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.event-browse p{
+	position: relative;
+	top: 310px;
+	left: 50px;
+	color: #4F2E84;
+	font-size: 20px;
+	padding-right: 50px;
+	
+}
+.event-browse h2{
+	font-size: 50px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: Bold;
+	font-size: 2em;
+	color: #4F2E84;
+	position: relative;
+	top: -50px;
+}
+
+
+.event-browse span{
+	margin-top: 100px;
+	padding: 100px 0;
+	position: relative;
+	top: -50px;
+	color: #4F2E84;
+	font-size: 20px;
+}
+
+.contain-1170 button{
+	position: relative;
+	left: 800px;
+	top: 45px;
+	font-size: 20px;
+}
+.event-browse button{
+	color:#fff;
+	background-color: #4370B4;
+	font-size: 1.5em;
+	margin-bottom: 20px;
+	position: relative;
+	top: -30px;
+	left: 0px;
+	width: 250px;
+	height: 50px;
+	box-sizing: border-box;
+}
+
+
+.event-browse button:hover{
+	background-color: #5286D5;
+}
+
+
+.event-browse h3{
+	position: relative;
+	top: 350px;
+	font-size: 50px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: Bold;
+	font-size: 2em;
+	color: #4F2E84;	
+}
+
+.facts {
+	width: 250px;
+	height: 800px;
+	background-color: #efefef;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	position: relative;
+	top: -50px;
+	float: right;
+	margin: auto;
+
+}
+.facts h1{
+	font-size: 2em;	
+	padding-left: 10px;
+}
+
+.grey-box h1{
+	
+	color: #eee;
+	padding: 20px;
+	color: #532E8B;
+	font-size: 1.5em;	
+}
+
+.grey-box{
+	background: #DBDBDB;
+	height: 250px;
+	width: 225px;
+	border:2px solid grey;
+	box-shadow: 0px 0px 6px 6px rgba(0,0,0,0.2);
+	position: absolute;
+	top: 20px;
+	left: 15px;
+}
+
+.grey-box p{
+	color: #333;
+	padding: 10px;
+}
+
+footer{
+	background-color: #4F2E84;
+	height: 100px;
+	color: #fff;
+	font-family: Ariel;
+	font-size: 2em;
+	text-align: center;
+	position: relative;
+	top: 100px;
+}
+
+footer p{
+	padding: 30px;
+}
+
+.new-contain-1170{
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.new-contain-1170 h1{
+	margin: 20px;
+	font-size: 2.5em;
+	color: #4F2E84;
+	font-weight: bold;
+}
+
+.new-contain-1170 p{
+	margin: 20px;
+	font-size: 1.5em;
+}
